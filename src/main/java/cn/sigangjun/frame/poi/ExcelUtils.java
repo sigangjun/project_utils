@@ -1,7 +1,5 @@
 package cn.sigangjun.frame.poi;
 
-import org.apache.log4j.Logger;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -25,7 +23,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import cn.sigangjun.frame.poi.test.DeviceDto;
 
 /**
- * 功能: POI实现把Excel数据导入到数据库
+ * 功能: POI实现把Excel转换成对应的Dto
  */
 public class ExcelUtils {
 

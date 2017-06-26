@@ -9,8 +9,8 @@ import cn.sigangjun.frame.poi.ExcelUtils;
 
 public class Main {
 	/**
-	* Logger for this class
-	*/
+	 * Logger for this class
+	 */
 	private static final Logger logger = Logger.getLogger(Main.class);
 
 	public static void main(String[] args) throws IOException {
